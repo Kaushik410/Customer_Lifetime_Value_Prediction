@@ -40,7 +40,7 @@ This repository contains a Jupyter notebook for predicting Customer Lifetime Val
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Customer_Lifetime_Value_Prediction.git
+git clone https://github.com/Kaushik410/Customer_Lifetime_Value_Prediction.git
 cd Customer_Lifetime_Value_Prediction
 ```
 
